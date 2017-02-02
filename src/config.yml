@@ -1,0 +1,8 @@
+# Set Motd
+motd: Welcome to the server!
+drops: false
+fishing: false
+#After death a user will be set to spectator
+elimination: true
+#Allowing Sprinting
+allow-sprinting: false

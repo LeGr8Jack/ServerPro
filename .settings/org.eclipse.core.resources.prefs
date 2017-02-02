@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/hnsjackk/serverpro/commands/feed.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/commands/help.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/commands/hp.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/commands/playerjoin.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/commands/staffmode.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/events/DropEvent.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/events/FishingEvent.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/events/PlayerChat.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/events/PlayerJoin.java=UTF-8
+encoding//src/com/hnsjackk/serverpro/events/RespawnEvent.java=UTF-8

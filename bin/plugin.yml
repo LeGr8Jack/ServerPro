@@ -1,0 +1,26 @@
+name: ServerPro
+version: 1.0
+main: com.hnsjackk.serverpro.Main
+author: Jackk
+
+commands:
+   help:
+      usage: /help
+      description: Help command.
+   hp:
+      usage: /hp 
+      description: Hp command.
+   feed:
+      usage: /feed
+      description: Food level command.
+   staff:
+      usage: /staff
+      description: Staff command
+   fakejoin:
+      usage: /fakejoin
+      description: Join command.
+      
+permissions:
+   staffmode:
+      description: Staff Mode Permission
+      default: op

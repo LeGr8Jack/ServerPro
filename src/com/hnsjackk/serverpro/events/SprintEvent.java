@@ -14,9 +14,9 @@ public class SprintEvent implements Listener{
 	}
 	@EventHandler
 	public void sprint(PlayerToggleSprintEvent e){
-		Boolean d_sprint = plugin.getConfig().getBoolean("allow-sprinting");
+		Boolean d_sprint = plugin.getConfig().getBoolean("allow-sprint");
 		if(d_sprint == false) {
-			e.setCancelled(true);
+			e.getPlayer().setSprinting(false);
 		}
 	}
 	
